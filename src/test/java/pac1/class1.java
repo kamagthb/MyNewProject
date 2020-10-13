@@ -9,5 +9,6 @@ public class class1 {
         //news
         System.out.println("new");
         //mfdömg
+        //mömcvm
     }
 }
