@@ -11,5 +11,6 @@ public class class1 {
         //mfdömg
         //mömcvm
         //kgflşlk
+        //fböbm ö.
     }
 }
