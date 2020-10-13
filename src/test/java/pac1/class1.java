@@ -6,5 +6,6 @@ public class class1 {
         System.out.println("new");
         System.out.println("new");
         System.out.println("new");
+        //news
     }
 }
