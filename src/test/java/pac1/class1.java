@@ -8,5 +8,6 @@ public class class1 {
         System.out.println("new");
         //news
         System.out.println("new");
+        //mfdömg
     }
 }
