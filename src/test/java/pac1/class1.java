@@ -10,5 +10,6 @@ public class class1 {
         System.out.println("new");
         //mfdömg
         //mömcvm
+        //kgflşlk
     }
 }
