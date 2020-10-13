@@ -14,5 +14,6 @@ public class class1 {
         //fböbm ö.
         //mbföbm
         //kldöbmx
+        System.out.println("new");
     }
 }
